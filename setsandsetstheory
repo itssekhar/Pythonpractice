@@ -1,0 +1,5 @@
+datascient = set(['Python','R','SQL','Tableau'])
+
+datascient.remove('Python')
+
+datascient
